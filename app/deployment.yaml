@@ -5,7 +5,6 @@ metadata:
   labels:
     app: spring-petclinic
     app.kubernetes.io/component: web
-    app.kubernetes.io/instance: spring-petclinic
     app.kubernetes.io/name: spring-petclinic
     app.kubernetes.io/part-of: spring-petclinic
     app.openshift.io/runtime: java
